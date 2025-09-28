@@ -76,7 +76,7 @@ I raise models the old-fashioned way: feedback loops, consistent boundaries, and
 
 ## If you came here from LinkedIn…
 
-That polished, responsible professional voice? Marketing’s idea.
+That polished, responsible professional voice was marketing’s idea.
 Here we talk about the interesting bits — away from the HR fun police and the eternal quest for “culture fit”.
 
 ---
