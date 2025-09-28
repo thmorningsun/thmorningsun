@@ -1,6 +1,6 @@
 > Status: `npm run build` IRL  
 > Role: turning chaos into commits  
-> Perk: **AI mom** — raising models that still think bedtime is optional  
+> Perk: AI mom — raising models that still think bedtime is optional  
 > Motto: move fast, document the crime scene
 
 ---
