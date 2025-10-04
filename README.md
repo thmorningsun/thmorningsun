@@ -49,23 +49,12 @@ I raise models the old-fashioned way: feedback loops, consistent boundaries, and
 ## Free Templates & Starters
 
 > You can use these for tests, training, prototypes, coursework, fake demos for scary stakeholders, etc.  
-> License: **MIT**. Fork it, break it, repaint it. Credit is cute but optional. Not for prod unless you know what you’re doing and your logs agree.
+> License: **MIT**. Fork it, break it, repaint it. Credit is cute but optional. 
 
-- **E-commerce Template A:**  
-  Next.js/TypeScript storefront + dashboard, integrated with **Firebase** (Auth/RTDB/Storage), **Stripe** (Checkout/Invoices/Webhooks), **AWS** (hosting), **UPS** (rates/labels/tracking), and **Mailgun** (transactional emails).  
-  *Use cases:* product catalogs, order flows, shipping labels, webhook drills.
-
-- **E-commerce Template B:**  
-  Variant with different product schemas and a leaner checkout. Same **Firebase/Stripe/AWS/UPS/Mailgun** backbone; optional coupons/taxes module and inventory sync jobs.  
-  *Use cases:* A/B testing carts, teaching juniors payments & logistics without reinventing everything.
-
-- **Mobile App — Real-time Chat (React Native):**  
-  DM/group chats, presence indicators, typing signals, media upload, and push notifications. Backend via **Firebase** (Auth/RTDB) + cloud functions for moderation.  
-  *Use cases:* sockets/presence training, push flows, attachment pipelines.
-
-- **Mobile App — Photo-centric Social Feed (React Native):**  
-  Feed, profiles, likes/comments, story-style uploads, and lightweight creator tools. Backend on **Firebase**; optional **Stripe** add-on for tipping/subscriptions.  
-  *Use cases:* onboarding flows, infinite lists, creator monetization prototyping.
+- **Intended use:** sandboxes, spikes, workshops, boilerplates, demo days. Not for prod unless you know what you’re doing and your logs agree.
+- **Attribution:** not required, **appreciated**. Stars are love, issues are free QA.  
+- **Boundaries:** don’t imply I’m on your team, and don’t sell “as-is” without reading the license and your conscience.  
+- **Warranty:** none; if it explodes, it’s a learning experience. If it doesn’t, it’s a Friday.
 
 > Find them in the pinned repos. If a template is missing, it’s because I’m refactoring it at 2am to remove the comments I said I wouldn’t write.
 
