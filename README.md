@@ -19,7 +19,7 @@ I ship features, babysit models, and keep logs so detailed they could testify in
 ## What I’m shipping
 
 - **Scheduling SaaS:** confirmations, waitlist, reminders, payments — fewer empty chairs, fewer “whoops, forgot.”  
-- **HealthBot:** health companion — medication calendar, smart alerts, and a face that judges your sleep.  
+- **Verdant Hollow:** cozy-but-cunning life-sim/RPG — farming, crafting, dungeons, and lots of lore. Think serene valleys, mischievous spirits, and relationships that actually have arcs.
 - **Vixter:** social+commerce platform for creators — like a mash-up of your favorite social feeds and a freelance marketplace, but with better vibes and fewer rules you didn’t ask for. *(Yes, it’s that one.)*
 
 > All current projects are **NDA-protected**. I’d show you more, but then Legal would show *me* more, and we’re all busy.
