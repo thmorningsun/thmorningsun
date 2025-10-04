@@ -52,7 +52,7 @@ I raise models the old-fashioned way: feedback loops, consistent boundaries, and
 > License: **MIT**. Fork it, break it, repaint it. Credit is cute but optional. 
 
 - **Intended use:** sandboxes, spikes, workshops, boilerplates, demo days. Not for prod unless you know what you’re doing and your logs agree.
-- **Attribution:** not required, **appreciated**. Stars are love, issues are free QA.  
+- **Attribution:** not required, appreciated. Stars are love, issues are free QA.  
 - **Boundaries:** don’t imply I’m on your team, and don’t sell “as-is” without reading the license and your conscience.  
 - **Warranty:** none; if it explodes, it’s a learning experience. If it doesn’t, it’s a Friday.
 
