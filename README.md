@@ -18,7 +18,7 @@ I ship features, babysit models, and keep logs so detailed they could testify in
 
 ## What I’m shipping
 
-- **Scheduling SaaS:** confirmations, waitlist, reminders, payments — fewer empty chairs, fewer “whoops, forgot.”  
+- **Puncto:** confirmations, waitlist, reminders, payments — fewer empty chairs, fewer “whoops, forgot.”  
 - **Verdant Hollow:** cozy-but-cunning life-sim/RPG — farming, crafting, dungeons, and lots of lore. Think serene valleys, mischievous spirits, and relationships that actually have arcs.
 - **Vixter:** social+commerce platform for creators — like a mash-up of your favorite social feeds and a freelance marketplace, but with better vibes and fewer rules you didn’t ask for. *(Yes, it’s that one.)*
 
@@ -43,6 +43,31 @@ I raise models the old-fashioned way: feedback loops, consistent boundaries, and
 - Prompt design & red-teaming
 - Lightweight evals & regression checks (“prove it works, again”)  
 - Guardrails so the UI doesn’t learn new swear words
+
+---
+
+## Free Templates & Starters
+
+> You can use these for tests, training, prototypes, coursework, fake demos for scary stakeholders, etc.  
+> License: **MIT**. Fork it, break it, repaint it. Credit is cute but optional. Not for prod unless you know what you’re doing and your logs agree.
+
+- **E-commerce Template A:**  
+  Next.js/TypeScript storefront + dashboard, integrated with **Firebase** (Auth/RTDB/Storage), **Stripe** (Checkout/Invoices/Webhooks), **AWS** (hosting), **UPS** (rates/labels/tracking), and **Mailgun** (transactional emails).  
+  *Use cases:* product catalogs, order flows, shipping labels, webhook drills.
+
+- **E-commerce Template B:**  
+  Variant with different product schemas and a leaner checkout. Same **Firebase/Stripe/AWS/UPS/Mailgun** backbone; optional coupons/taxes module and inventory sync jobs.  
+  *Use cases:* A/B testing carts, teaching juniors payments & logistics without reinventing everything.
+
+- **Mobile App — Real-time Chat (React Native):**  
+  DM/group chats, presence indicators, typing signals, media upload, and push notifications. Backend via **Firebase** (Auth/RTDB) + cloud functions for moderation.  
+  *Use cases:* sockets/presence training, push flows, attachment pipelines.
+
+- **Mobile App — Photo-centric Social Feed (React Native):**  
+  Feed, profiles, likes/comments, story-style uploads, and lightweight creator tools. Backend on **Firebase**; optional **Stripe** add-on for tipping/subscriptions.  
+  *Use cases:* onboarding flows, infinite lists, creator monetization prototyping.
+
+> Find them in the pinned repos. If a template is missing, it’s because I’m refactoring it at 2am to remove the comments I said I wouldn’t write.
 
 ---
 
