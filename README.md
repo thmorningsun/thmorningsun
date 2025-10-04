@@ -1,7 +1,7 @@
 > Status: `npm run build` IRL  
 > Role: turning chaos into commits  
 > Perk: AI mom — raising models that still think bedtime is optional  
-> Motto: move fast, document the crime scene
+> Motto: move fast, document the crime scene  
 > Presence: I only exist on the internet
 
 ---
