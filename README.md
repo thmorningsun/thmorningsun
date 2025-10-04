@@ -36,16 +36,6 @@ I ship features, babysit models, and keep logs so detailed they could testify in
 
 ---
 
-## AI Mom Corner
-
-I raise models the old-fashioned way: feedback loops, consistent boundaries, and the occasional timeout behind a rate-limit.
-
-- Prompt design & red-teaming
-- Lightweight evals & regression checks 
-- Guardrails so the UI doesn’t learn new swear words
-
----
-
 ## Free Templates & Starters
 
 > You can use these for tests, training, prototypes, coursework, fake demos for scary stakeholders, etc.  
@@ -76,15 +66,6 @@ I raise models the old-fashioned way: feedback loops, consistent boundaries, and
 
 **IoT & Protocols**  
 `ESP32` • `MicroPython` • `MQTT`  
-
----
-
-## Values
-
-- **Fast > fancy:** ship the 80% that matters; charm comes later.  
-- **Logs are literature:** if prod cries, the stack trace reads like a memoir.  
-- **Accessible by default:** speed, clarity, keyboard-first.  
-- **Delight counts:** serious systems, playful edges.
 
 ---
 
